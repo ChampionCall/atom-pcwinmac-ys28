@@ -1,4 +1,4 @@
-# 
+# Código abierto Atom plantillas para Mac OS | Principal Atom plantillas para PC Windows. Con plan de ejecución y herramientas de base de datos — optimizado para el máximo rendimiento en cada plataforma.
 
 
 
